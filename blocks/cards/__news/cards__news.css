@@ -1,0 +1,11 @@
+.cards__news {
+  padding-right: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(324px, 415px));
+}
+
+@media screen and (min-width: 960px) {
+  .cards__news {
+    padding-right: 0;
+    gap: 47px 66px;
+  }
+}

@@ -1,0 +1,4 @@
+.popup__border {
+  border-bottom: 1px solid var(--bg-secondary);
+  margin: 17px 0;
+}

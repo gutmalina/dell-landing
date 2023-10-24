@@ -1,0 +1,16 @@
+.card__icon {
+  border-radius: 9px;
+  background-color: var(--grey-secondary);
+  width: clamp(50px, 4vw, 70px);
+  height: clamp(50px, 4vw, 70px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: clamp(15px, 2vw, 28px);
+}

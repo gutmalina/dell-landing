@@ -1,0 +1,10 @@
+.lead__container {
+  padding-left: clamp(15px, 4vw, 260px);
+  padding-right: clamp(15px, 4vw, 60px);
+}
+
+@media screen and (min-width: 1920px) {
+  .lead__container {
+    padding-left: 260px;
+  }
+}

@@ -1,0 +1,12 @@
+.subtitle__about-card {
+  line-height: 120%;
+  width: 90%;
+  color: var(--card-grey);
+}
+
+@media screen and (min-width: 960px) {
+  .subtitle__about-card {
+    width: 100%;
+    margin-bottom: 7px;
+  }
+}

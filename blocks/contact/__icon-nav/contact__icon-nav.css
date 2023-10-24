@@ -1,0 +1,6 @@
+.contact__icon-nav {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: clamp(27px, 2vw, 38px);
+  height: clamp(27px, 2vw, 38px);
+}

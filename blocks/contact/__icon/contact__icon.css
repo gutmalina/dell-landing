@@ -1,0 +1,7 @@
+.contact__icon {
+  width: clamp(19px, 2vw, 38px);
+  height: clamp(19px, 2vw, 38px);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

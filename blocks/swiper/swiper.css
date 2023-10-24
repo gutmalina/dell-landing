@@ -1,0 +1,4 @@
+.swiper {
+  width: clamp(327px, 30vw, 557px);
+  height: clamp(325px, 30vw, 555px);
+}

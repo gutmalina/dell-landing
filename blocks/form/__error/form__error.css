@@ -1,0 +1,5 @@
+.form__error {
+  color: var(--error);
+  opacity: 0;
+  visibility: hidden;
+}

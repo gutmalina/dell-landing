@@ -1,0 +1,5 @@
+.cards {
+  display: -ms-grid;
+  display: grid;
+  gap: clamp(20px, 3vw, 40px);
+}

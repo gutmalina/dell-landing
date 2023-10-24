@@ -1,0 +1,10 @@
+.footer__icons {
+  gap: 29px;
+}
+
+@media screen and (min-width: 1920px) {
+  .footer__icons {
+    gap: 15px;
+    margin-top: 10px;
+  }
+}

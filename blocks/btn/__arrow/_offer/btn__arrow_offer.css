@@ -1,0 +1,10 @@
+.btn__arrow_offer {
+  display: none;
+}
+
+@media screen and (min-width: 960px) {
+  .btn__arrow_offer {
+    display: block;
+    margin-bottom: 103px;
+  }
+}

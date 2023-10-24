@@ -1,0 +1,153 @@
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-Thin.ttf) format("truetype"),
+       url(./Roboto-Thin.woff2) format("woff2"),
+       url(./Roboto-Thin.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-ThinItalic.ttf) format("truetype"),
+       url(./Roboto-ThinItalic.woff2) format("woff2"),
+       url(./Roboto-ThinItalic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-Light.ttf) format("truetype"),
+       url(./Roboto-Light.woff2) format("woff2"),
+       url(./Roboto-Light.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-LightItalic.ttf) format("truetype"),
+       url(./Roboto-LightItalic.woff2) format("woff2"),
+       url(./Roboto-LightItalic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-Regular.ttf) format("truetype"),
+       url(./Roboto-Regular.woff2) format("woff2"),
+       url(./Roboto-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-Italic.ttf) format("truetype"),
+       url(./Roboto-Italic.woff2) format("woff2"),
+       url(./Roboto-Italic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-Medium.ttf) format("truetype"),
+       url(./Roboto-Medium.woff2) format("woff2"),
+       url(./Roboto-Medium.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-MediumItalic.ttf) format("truetype"),
+       url(./Roboto-MediumItalic.woff2) format("woff2"),
+       url(./Roboto-MediumItalic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-Bold.ttf) format("truetype"),
+       url(./Roboto-Bold.woff2) format("woff2"),
+       url(./Roboto-Bold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-BoldItalic.ttf) format("truetype"),
+       url(./Roboto-BoldItalic.woff2) format("woff2"),
+       url(./Roboto-BoldItalic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-Black.ttf) format("truetype"),
+       url(./Roboto-Black.woff2) format("woff2"),
+       url(./Roboto-Black.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: local("Roboto"),
+       url(./Roboto-BlackItalic.ttf) format("truetype"),
+       url(./Roboto-BlackItalic.woff2) format("woff2"),
+       url(./Roboto-BlackItalic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Euclid Circular A";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local("Euclid Circular A"),
+       url(./EuclidCircularA-Light.ttf) format("truetype"),
+       url(./EuclidCircularA-Light.woff2) format("woff2"),
+       url(./EuclidCircularA-Light.woff) format("woff");
+}
+
+@font-face {
+  font-family: "Euclid Circular A";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local("Euclid Circular A"),
+       url(./EuclidCircularA-Bold.ttf) format("truetype"),
+       url(./EuclidCircularA-Bold.woff2) format("woff2"),
+       url(./EuclidCircularA-Bold.woff) format("woff");
+}

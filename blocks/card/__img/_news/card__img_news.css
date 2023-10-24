@@ -1,0 +1,11 @@
+.card__img_news {
+  border-radius: 45px 0px 0px 0px;
+  max-width: 415px;
+
+}
+
+@media screen and (min-width: 960px) {
+  .card__img_news {
+    height: 262px;
+  }
+}

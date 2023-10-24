@@ -1,0 +1,10 @@
+.header__icon_chart {
+  display: none;
+  background-image: url(../../../../images/icon_chart.svg);
+}
+
+@media screen and (min-width: 480px) {
+  .header__icon_chart {
+    display: block;
+  }
+}

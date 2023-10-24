@@ -1,0 +1,6 @@
+.subtitle__news_card {
+  font-size: 0.875rem;
+  line-height: 150%;
+  font-weight: 400;
+  color: var(--black-primary);
+}

@@ -1,0 +1,10 @@
+.subtitle__primary_lead {
+  line-height: 133.687%;
+  margin-bottom: 8px;
+}
+
+@media screen and (min-width: 960px) {
+  .subtitle__primary_lead {
+    margin-bottom: 18px;
+  }
+}

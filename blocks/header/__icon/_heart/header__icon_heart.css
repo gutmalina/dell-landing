@@ -1,0 +1,11 @@
+.header__icon_heart {
+  display: none;
+  background-image: url(../../../../images/icon_heart.svg);
+  background-color: var(--bg-primary);
+}
+
+@media screen and (min-width: 480px) {
+  .header__icon_heart {
+    display: block;
+  }
+}

@@ -1,0 +1,4 @@
+.title__secondary {
+  font-size: clamp(20px, 2vw, 25px);
+  line-height: 130%;
+}

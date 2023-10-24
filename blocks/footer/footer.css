@@ -1,0 +1,23 @@
+.footer {
+  background-color: var(--bg-secondary);
+  background-image: url(../../images/lead_dell.svg);
+  background-repeat: no-repeat;
+  background-position: right 11px bottom 31px;
+  background-size: 215px;
+  padding: clamp(30px, 1.5vw, 58px) clamp(15px, 4vw, 260px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+@media screen and (min-width: 1920px) {
+  .footer {
+    padding: 61px 260px 10px;
+    background-size: 26%;
+    background-position: right -25px top 40%;
+  }
+}

@@ -1,0 +1,12 @@
+.subtitle__primary_form {
+  color: var(--bg-white);
+  font-size: clamp(15px, 1vw, 16px);
+  font-weight: 400;
+  margin-bottom: 50px;
+}
+
+@media screen and (min-width: 960px) {
+  .subtitle__primary_form {
+    margin-bottom: 62px;
+  }
+}

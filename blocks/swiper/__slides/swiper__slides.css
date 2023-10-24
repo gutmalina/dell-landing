@@ -1,0 +1,9 @@
+.swiper__slides {
+  padding-left: 9px;
+}
+
+@media screen and (min-width: 960px) {
+  .swiper__slides {
+    padding-left: 0;
+  }
+}

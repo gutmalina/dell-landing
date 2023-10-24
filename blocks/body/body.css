@@ -1,0 +1,56 @@
+.body {
+  --bg-icon: #48a4eb;
+  --bg-primary: #f9f9f9;
+  --bg-secondary: #f2f2f2;
+  --bg-card-light: #eee;
+  --bg-white: #fff;
+  --black-primary: #292d32;
+  --black-secondary: #838383;
+  --grey-primary: #d0d0d0;
+  --grey-secondary: #343a41;
+  --card-grey: #b7b7b7;
+  --input: #8e9092;
+  --border: #e5e5e5;
+  --error: red;
+  font-family: "Roboto", system system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: var(--black-primary);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+}
+
+fieldset,
+input {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+input {
+  color: inherit;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}

@@ -1,0 +1,14 @@
+.btn__arrow {
+  background-image: url(../../../images/icon_arrow.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 64px;
+  height: 14px;
+}
+
+@media screen and (min-width: 960px) {
+  .btn__arrow {
+    width: 104px;
+    height: 21px;
+  }
+}

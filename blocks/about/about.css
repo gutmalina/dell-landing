@@ -1,0 +1,20 @@
+.about {
+  background-color: var(--bg-secondary);
+  background-image: url(../../../images/about_best.svg);
+  background-repeat: no-repeat;
+  background-position: 15px 374px;
+  padding: 109px clamp(15px, 4vw, 179px) 124px;
+}
+
+@media screen and (min-width: 960px) {
+  .about {
+    background-size: 46%;
+    background-position: 11px 26%;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .about {
+    padding: 90px 179px 45px;
+  }
+}

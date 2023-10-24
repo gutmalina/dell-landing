@@ -1,0 +1,26 @@
+.header {
+  width: 100%;
+  padding: clamp(15px, 1.5vw, 27px) clamp(15px, 4vw, 260px);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 0.9fr 1fr;
+  grid-template-columns: 0.9fr 1fr;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media screen and (min-width: 960px) {
+  .header {
+    -ms-grid-columns: 1.15fr 1fr;
+    grid-template-columns: 1.15fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .header {
+    padding: 27px 260px;
+  }
+}

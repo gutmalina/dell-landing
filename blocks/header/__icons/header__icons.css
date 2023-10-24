@@ -1,0 +1,14 @@
+.header__icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 16px;
+  -ms-grid-column-align: end;
+      justify-self: end;
+}
+
+@media screen and (min-width: 960px) {
+  .header__icons {
+    gap: clamp(16px, 10vw, 34px);
+  }
+}

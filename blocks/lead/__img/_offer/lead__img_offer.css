@@ -1,0 +1,5 @@
+.lead__img_offer {
+  -webkit-transform: translateX(-25px);
+      -ms-transform: translateX(-25px);
+          transform: translateX(-25px);
+}

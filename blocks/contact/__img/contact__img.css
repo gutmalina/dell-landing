@@ -1,0 +1,18 @@
+.contact__img {
+  width: 175px;
+  height: 253px;
+  background-image: url(../../../images/contact_img360.png);
+  position: absolute;
+  left: 46%;
+  bottom: -41px;
+}
+
+@media screen and (min-width: 960px) {
+  .contact__img {
+    background-image: url(../../../images/contact_img1920.png);
+    width: 292px;
+    height: 587px;
+    top: 17%;
+    left: 70%;
+  }
+}

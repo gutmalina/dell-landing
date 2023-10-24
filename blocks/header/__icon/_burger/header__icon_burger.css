@@ -1,0 +1,10 @@
+.header__icon_burger {
+  display: block;
+  background-image: url(../../../../images/icon_burger.svg);
+}
+
+@media screen and (min-width: 960px) {
+  .header__icon_burger {
+    display: none;
+  }
+}

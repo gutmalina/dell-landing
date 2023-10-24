@@ -1,0 +1,12 @@
+.card__about {
+  background-color: var(--black-primary);
+  padding: clamp(15px, 2vw, 29px);
+  position: relative;
+  max-height: 290px;
+}
+
+@media screen and (min-width: 960px) {
+  .card__about {
+   border-radius: 15px;
+  }
+}

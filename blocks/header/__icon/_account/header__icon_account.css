@@ -1,0 +1,9 @@
+.header__icon_account {
+  background-image: url(../../../../images/icon_account.svg);
+}
+
+.header__icon_account:hover .popup__menu{
+  opacity: 1;
+  visibility: visible;
+  z-index: 100;
+}

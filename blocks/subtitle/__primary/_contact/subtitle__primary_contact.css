@@ -1,0 +1,11 @@
+.subtitle__primary_contact {
+  line-height: 150%;
+  margin-bottom: 41px;
+  font-size: clamp(15px, 1vw, 16px);
+}
+
+@media screen and (min-width: 960px) {
+  .subtitle__primary_contact {
+    margin-bottom: 56px;
+  }
+}

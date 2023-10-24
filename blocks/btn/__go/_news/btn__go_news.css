@@ -1,0 +1,13 @@
+.btn__go_news {
+  margin-bottom: 38px;
+}
+
+@media screen and (min-width: 960px) {
+  .btn__go_news {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+    margin-bottom: 0;
+  }
+}

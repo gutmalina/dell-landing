@@ -1,0 +1,6 @@
+.card__img_catalog {
+  width: inherit;
+  height: inherit;
+  -o-object-fit: contain;
+     object-fit: contain;
+}

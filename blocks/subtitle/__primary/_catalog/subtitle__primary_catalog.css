@@ -1,0 +1,12 @@
+.subtitle__primary_catalog {
+  line-height: 150%;
+  margin-bottom: 30px;
+}
+
+@media screen and (min-width: 960px) {
+  .subtitle__primary_catalog {
+    line-height: 128%;
+    margin-bottom: 44px;
+    width: 90%;
+  }
+}

@@ -1,0 +1,16 @@
+.title__about-card {
+  color: var(--bg-white);
+  font-family: Euclid Circular A;
+  font-size: clamp(18px, 2vw, 22px);
+  font-weight: 700;
+  line-height: 130%;
+  width: 90%;
+  margin-bottom: clamp(12px, 2vw, 20px);
+}
+
+@media screen and (min-width: 960px) {
+  .title__about-card {
+    width: 100%;
+    line-height: 112%;
+  }
+}

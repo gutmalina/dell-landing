@@ -1,0 +1,15 @@
+.card__container {
+  background-image: url(../../../images/bg_card_news.svg);
+  background-size: cover;
+  margin-top: -36px;
+  padding: 20px;
+  position: relative;
+  border-radius: 0px 0px 45px 0px;
+}
+
+@media screen and (min-width: 960px) {
+  .card__container {
+    margin-top: -43px;
+    padding: 26px 26px 17px;
+  }
+}

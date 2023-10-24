@@ -1,0 +1,16 @@
+.form__input_text {
+  background-color: transparent;
+  height: 80px;
+  resize: none;
+  outline: none;
+  color: inherit;
+  padding: 11px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+@media screen and (min-width: 960px) {
+  .form__input_text {
+    height: 140px;
+  }
+}

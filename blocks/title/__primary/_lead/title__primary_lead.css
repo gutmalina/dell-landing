@@ -1,0 +1,9 @@
+.title__primary_lead {
+  margin-bottom: clamp(28px, 4vw, 61px);
+}
+
+@media screen and (min-width: 960px) {
+  .title__primary_lead {
+    line-height: 115%;
+  }
+}

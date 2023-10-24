@@ -1,0 +1,23 @@
+.form__inputs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 20px;
+  margin-bottom: 27px;
+  color: var(--bg-secondary);
+  font-size: clamp(15px, 2vw, 18px);
+  font-weight: 300;
+  line-height: 133.687%;
+  width: 98%;
+}
+
+@media screen and (min-width: 960px) {
+  .form__inputs {
+    gap: 30px;
+    margin-bottom: 54px;
+  }
+}

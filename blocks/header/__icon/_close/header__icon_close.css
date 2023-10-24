@@ -1,0 +1,4 @@
+.header__icon_close {
+  background-image: url(../../../../images/icon_close.svg);
+  background-color: var(--bg-primary);
+}

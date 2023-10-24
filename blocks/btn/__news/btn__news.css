@@ -1,0 +1,19 @@
+.btn__news {
+  background-image: url(../../../images/btn_news.svg);
+  background-repeat: no-repeat;
+  width: 78px;
+  height: 58px;
+  position: absolute;
+  top: 9px;
+  right: 11px;
+}
+
+@media screen and (min-width: 960px) {
+  .btn__news {
+    background-size: cover;
+    width: 98px;
+    height: 76px;
+    top: 12px;
+    right: 9px;
+  }
+}

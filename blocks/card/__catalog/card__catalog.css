@@ -1,0 +1,4 @@
+.card__catalog {
+  width: clamp(345px, 33vw, 440px);
+  height: clamp(275px, 29vw, 371px);
+}

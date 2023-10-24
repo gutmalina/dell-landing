@@ -1,0 +1,30 @@
+.contact {
+  background-color: var(--bg-primary);
+  padding: 109px 0 0;
+}
+
+@media screen and (min-width: 960px) {
+  .contact {
+    background: url(../../images/contact_bg_img1920.svg) no-repeat 11px 200px,
+                -webkit-gradient(linear, left bottom, left top, from(#EEE), to(#EEE)),
+                -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.42)), to(rgba(0, 0, 0, 0.42))),
+                lightgray 0px -382.687px / 100% 205.208% no-repeat;
+    background: url(../../images/contact_bg_img1920.svg) no-repeat 11px 200px,
+                -o-linear-gradient(bottom, #EEE 0%, #EEE 100%),
+                -o-linear-gradient(bottom, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.42) 100%),
+                lightgray 0px -382.687px / 100% 205.208% no-repeat;
+    background: url(../../images/contact_bg_img1920.svg) no-repeat 11px 200px,
+                linear-gradient(0deg, #EEE 0%, #EEE 100%),
+                linear-gradient(0deg, rgba(0, 0, 0, 0.42) 0%, rgba(0, 0, 0, 0.42) 100%),
+                lightgray 0px -382.687px / 100% 205.208% no-repeat;
+    padding: 0 clamp(15px, 4vw, 260px);
+    max-height: 676px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  .contact {
+    padding: 0 260px;
+    max-height: 676px;
+  }
+}

@@ -1,0 +1,10 @@
+.cards__catalog {
+  grid-template-columns: repeat(auto-fill, minmax(345px, 440px));
+}
+
+@media screen and (min-width: 1920px) {
+  .cards__catalog {
+    -ms-grid-columns: 1fr, 1fr, 1fr;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

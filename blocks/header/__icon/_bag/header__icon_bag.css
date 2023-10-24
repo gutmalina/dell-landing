@@ -1,0 +1,5 @@
+.header__icon_bag {
+  background-image: url(../../../../images/icon_bag.svg);
+  background-color: var(--bg-primary);
+  position: relative;
+}

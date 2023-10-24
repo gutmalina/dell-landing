@@ -1,0 +1,9 @@
+.catalog {
+  padding: clamp(120px, 10vw, 163px) clamp(15px, 4vw, 260px);
+}
+
+@media screen and (min-width: 1920px) {
+  .catalog {
+    padding: 163px 260px 180px;
+  }
+}

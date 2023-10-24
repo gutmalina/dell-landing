@@ -1,0 +1,9 @@
+.title__primary {
+  font-size: clamp(30px, 3vw, 50px);
+}
+
+@media screen and (min-width: 960px) {
+  .title__primary {
+    line-height: 100%;
+  }
+}

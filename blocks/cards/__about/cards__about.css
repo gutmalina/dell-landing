@@ -1,0 +1,15 @@
+.cards__about {
+  padding-top: 40px;
+  grid-template-columns: repeat(auto-fit, 346px);
+}
+
+@media screen and (min-width: 960px) {
+  .cards__about {
+    padding-top: 46px;
+    grid-template-columns: repeat(auto-fit, 330px);
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 27px;
+  }
+}

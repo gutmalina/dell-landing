@@ -1,0 +1,8 @@
+.form__sign {
+  display: inline-block;
+  padding: 0 8px;
+  position: absolute;
+  top: -10px;
+  left: 15px;
+  background-color: var(--black-primary);
+}

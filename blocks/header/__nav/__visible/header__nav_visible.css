@@ -1,0 +1,5 @@
+.header__nav_visible {
+  visibility: visible;
+  background-color: var(--bg-white);
+  z-index: 1;
+}

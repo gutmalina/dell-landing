@@ -1,0 +1,16 @@
+.about__img {
+  margin-top: -69px;
+  -ms-flex-item-align: end;
+      -ms-grid-row-align: end;
+      align-self: end;
+  margin-right: -14px;
+}
+
+@media screen and (min-width: 960px) {
+  .about__img {
+    width: 874px;
+    height: 492px;
+    margin-top: 0;
+    margin-right: 0;
+  }
+}

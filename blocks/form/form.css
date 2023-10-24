@@ -1,0 +1,11 @@
+.form {
+  background-color: var(--black-primary);
+  padding: 61px 25px 47px 30px;
+}
+
+@media screen and (min-width: 960px) {
+  .form {
+    border-radius: 0px 20px 20px 0px;
+    padding: 104px 126px 91px 128px;
+  }
+}

@@ -1,0 +1,5 @@
+.footer__icon {
+  width: clamp(31px, 2vw, 38px);
+  height: clamp(31px, 2vw, 38px);
+  background-size: cover
+}

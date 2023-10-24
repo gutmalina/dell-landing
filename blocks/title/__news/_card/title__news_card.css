@@ -1,0 +1,15 @@
+.title__news_card {
+  font-size: 1.5625rem;
+  font-weight: 700;
+  line-height: 100%;
+  margin-bottom: 11px;
+  width: 83%;
+}
+
+@media screen and (min-width: 960px) {
+  .title__news_card {
+    width: 70%;
+    line-height: 130%;
+    margin-bottom: 6px;
+  }
+}

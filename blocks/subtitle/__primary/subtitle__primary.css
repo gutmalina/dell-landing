@@ -1,0 +1,6 @@
+.subtitle__primary {
+  color: var(--black-secondary);
+  font-size: clamp(15px, 1vw, 18px);
+  font-weight: 300;
+  line-height: 136%;
+}

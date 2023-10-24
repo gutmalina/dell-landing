@@ -1,0 +1,8 @@
+.card__slide {
+  width: 100%;
+  height: clamp(189px, 13vw, 232px);
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr minmax(282px, 336px);
+  grid-template-columns: 1fr minmax(282px, 336px);
+}

@@ -1,0 +1,9 @@
+.news {
+  padding: clamp(120px, 10vw, 180px) clamp(15px, 4vw, 260px) clamp(120px, 31vw, 531px);
+}
+
+@media screen and (min-width: 1920px) {
+  .news {
+    padding: 180px 260px 531px;
+  }
+}

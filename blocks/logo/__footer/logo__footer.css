@@ -1,0 +1,17 @@
+.logo__footer {
+  max-width: -webkit-max-content;
+  max-width: -moz-max-content;
+  max-width: max-content;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  margin-bottom: 29px;
+}
+
+@media screen and (min-width: 960px) {
+  .logo__footer {
+    width: 112px;
+    height: 112px;
+    margin-bottom: 23px;
+  }
+}

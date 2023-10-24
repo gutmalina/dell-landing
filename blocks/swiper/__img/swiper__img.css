@@ -1,0 +1,7 @@
+@media screen and (min-width: 960px) {
+  .swiper__img {
+    width: 100%;
+    max-width: 557px;
+    max-height: 555px;
+  }
+}

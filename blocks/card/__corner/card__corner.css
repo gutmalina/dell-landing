@@ -1,0 +1,10 @@
+.card__corner {
+  background-image: url(../../../images/about_corner.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: clamp(121px, 8vw, 139px);
+  height: clamp(70px, 5vw, 90px);
+  position: absolute;
+  top: 0;
+  right: 0;
+}

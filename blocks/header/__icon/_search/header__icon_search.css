@@ -1,0 +1,5 @@
+.header__icon_search {
+  background-image: url(../../../../images/icon_search.svg);
+  -ms-grid-column-align: end;
+      justify-self: end;
+}

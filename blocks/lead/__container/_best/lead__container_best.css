@@ -1,0 +1,23 @@
+.lead__container_best {
+  background-color: var(--bg-secondary);
+  background-image: url(../../../../images/lead_dell.svg);
+  background-repeat: no-repeat;
+  background-position: center 18px;
+  padding-top: 79px;
+  padding-bottom: 5px;
+  position: relative;
+}
+
+@media screen and (min-width: 960px) {
+  .lead__container_best {
+    width: 59%;
+    background-size: 54%;
+    background-position: 40% 22%;
+    padding-bottom: 45px;
+    padding-right: 40px;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 0.5fr 2fr 1fr;
+    grid-template-columns: 0.5fr 2fr 1fr;
+  }
+}
