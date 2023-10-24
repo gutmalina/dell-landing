@@ -1,0 +1,6 @@
+@media screen and (min-width: 960px) {
+  .footer__list_help {
+    -ms-grid-column: 2;
+    grid-column: 2;
+  }
+}

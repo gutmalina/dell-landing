@@ -45,6 +45,7 @@
 @import url(./blocks/subtitle/__scroll/subtitle__scroll.css);
 @import url(./blocks/subtitle/__about-card/subtitle__about-card.css);
 @import url(./blocks/subtitle/__secondary/subtitle__secondary.css);
+@import url(./blocks/subtitle/__secondary/_adress/subtitle__secondary_adress.css);
 @import url(./blocks/subtitle/__secondary/_footer/subtitle__secondary_footer.css);
 @import url(./blocks/subtitle/__popup/subtitle__popup.css);
 
@@ -131,6 +132,8 @@
 @import url(./blocks/footer/__list/footer__list.css);
 @import url(./blocks/footer/__list/_adress/footer__list_adress.css);
 @import url(./blocks/footer/__list/_catalog/footer__list_catalog.css);
+@import url(./blocks/footer/__list/_help/footer__list_help.css);
+@import url(./blocks/footer/__list/_cabinet/footer__list_cabinet.css);
 @import url(./blocks/footer/__border/footer__border.css);
 @import url(./blocks/footer/__icons/footer__icons.css);
 @import url(./blocks/footer/__icon/footer__icon.css);

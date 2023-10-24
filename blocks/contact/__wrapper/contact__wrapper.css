@@ -4,9 +4,9 @@
     display: grid;
     -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
-    -webkit-transform: translateY(-20%);
-        -ms-transform: translateY(-20%);
-            transform: translateY(-20%);
+    -webkit-transform: translateY(-27%);
+        -ms-transform: translateY(-27%);
+            transform: translateY(-27%);
   }
 }
 
