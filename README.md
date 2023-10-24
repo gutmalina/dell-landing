@@ -1,7 +1,7 @@
 # Тестовое задание на позицию Junior Фронтенд-разработчик (Вёрстка)
 
 <p padding="0" align="center">~~~~~~~~~~</p>
-<a  href="https://gutmalina.github.io/google-books/" target="_blank" align="center"><img src="./images/videogif.gif" width="100%" alt="Демо"></a>
+<a  href="https://gutmalina.github.io/dell-landing/" target="_blank" align="center"><img src="./images/videogif.gif" width="100%" alt="Демо"></a>
 <p padding="0" align="center">~~~~~~~~~~</p>
 
 ### Стэк:
@@ -28,5 +28,5 @@
 корректность ввода данных.
 
 ### Ссылки:
-* :mag_right: [Открыть проект](https://gutmalina.github.io/google-books/)
+* :mag_right: [Открыть проект](https://gutmalina.github.io/dell-landing/)
 * :pushpin:   [Макет в Figma](https://www.figma.com/file/sjrDJAtBsOvNT3IZKvw1Tv/Тестовое-для-верстальщика?node-id=1%3A420&mode=dev)
